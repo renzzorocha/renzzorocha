@@ -1,7 +1,7 @@
 ### Hey, I'm Renzzo Rocha! 😁
 
 I.S Student at [UNA](https://www.una.br/) <br>
-Born in Minas Gerais, Brazil 
+🇧🇷 Born in Minas Gerais, Brazil 
 
 ### Contacts 📧
 

@@ -2,4 +2,4 @@
 
 - 🏢 Brazilian Software Engineer (IS student at <a href="https://www.una.br/">UNA</a>)
 -  I build with: `Java`, `C#`, `JavaScript`
-- ⚡ I enjoy swim, reading, playing video-games, and listening lofi :)
+- ⚡ I enjoy swim, reading, playing video-games and listening lofi beats :)

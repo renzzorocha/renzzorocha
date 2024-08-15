@@ -1,10 +1,7 @@
-<h1>Hi There! 👋</h1>
+## Olá! Meu nome é Renzzo!
 
-## My name is Renzzo Rocha!
-
-- 🏢 Brazilian Software Engineer (IS student at <a href="https://www.una.br/">UNA</a>).
-- ⚡ I enjoy swim and coding
-- 📫 Reach out to me: renzzorocha17@gmail.com.
+- 🏢 Fullstack Software Engineer.
+- 📫 Contate-me pelo e-mail: renzzorocha17@gmail.com.
 
 
 

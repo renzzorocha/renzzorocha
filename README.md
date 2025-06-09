@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 📨 Reach me out: linkedin.com/in/renzzo
+- 📨 Currently, i`m doing some private projects. d-.-b

@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 📨 Currently, i`m doing some private projects. d-.-b
+- 📨 Currently, i`m coding some private projects. d-.-b
